@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Deployed App: <a>https://whatsapp-clone-mern-8e449.web.app/</a>
 
 ## Available Scripts
 
